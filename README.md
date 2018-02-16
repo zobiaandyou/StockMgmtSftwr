@@ -1,0 +1,2 @@
+# StockMgmtSftwr
+Stock Management Software
